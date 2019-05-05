@@ -1,2 +1,2 @@
 # ExelHandler
-Лабораторная Web: Django + VueJS
+Web, лабораторная №1: Django + VueJS
